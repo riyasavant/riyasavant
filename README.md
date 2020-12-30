@@ -1,6 +1,6 @@
 <div align="center">
   <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!</h2>
-  <p>I am a full stack Enthusiast, and *I also manage playing chess*</p>
+  <p>I am a full stack Enthusiast, and <i>I also manage playing chess</i></p>
 </div>
 
 <div align="center">
