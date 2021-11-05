@@ -2,13 +2,15 @@
   <img src="./header.png" height="200px" width="600px">
 </div>
 </br></br>
-<div align="center">
+<div>
+  <h3>Tools and Languages</h3>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+</div>
+</br>
+<div>
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=riyasavant&theme=dark&hide_border=true)](https://git.io/streak-stats)
-  </br></br>
-
-  [![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyasavant&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-  </br></br>
-  <a href="https://www.linkedin.com/in/riya-savant" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"   alt="LinkedIn"></a>
 </div>
