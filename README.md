@@ -1,9 +1,7 @@
 <div align="center">
-  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!</h2>
-  <p>Full Stack Enthusiast, <i>International Chess Player</i></p>
+  <img src="./gh-header.png" height="200px" width="600px">
 </div>
-
-<div align="center">
+</br></br>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=riyasavant&theme=dark&hide_border=true)](https://git.io/streak-stats)
   </br></br>
