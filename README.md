@@ -10,6 +10,7 @@
   
   | Company Name   	| Role               	| Duration                     	|
 |----------------	|--------------------	|------------------------------	|
+| [BlueOptima](https://www.blueoptima.com/)       	| SDE Intern         	| January 2022 - Present    	|
 | [Tata 1mg](https://www.1mg.com/)       	| SDE Intern         	| June 2021 - November 2021    	|
 | [SkillMithra](https://www.skillmithra.com/)    	| Frontend Developer 	| November 2020 - January 2021 	|
 | [Octalogic Tech](https://octalogic.in/) 	| Frontend Developer 	| July 2020 - October 2020     	|
