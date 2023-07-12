@@ -1,12 +1,5 @@
-<div align="center">
-  <img src="./header.png">
-</div>
-</br></br>
-<div>
-  <p>I love CSS Art and everything about the web, what about you?</p>
-</div>
-<div>
-  <h3>Internships</h3>
+
+  <h3>Work Experience</h3>
   
   | Company Name   	| Role               	| Duration                     	|
 |----------------	|--------------------	|------------------------------	|
